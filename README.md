@@ -1,0 +1,1 @@
+This is Thierry's first git project!
